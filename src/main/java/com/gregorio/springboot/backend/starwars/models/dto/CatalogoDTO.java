@@ -9,6 +9,10 @@ import com.gregorio.springboot.backend.starwars.models.entity.Vehicles;
 
 public class CatalogoDTO implements java.io.Serializable{
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private int codigo;
 	private String name;
 	
